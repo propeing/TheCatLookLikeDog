@@ -1,4 +1,4 @@
-<img src="https://github.com/propeing/TheCatLookLikeDog/blob/main/181649815898_.pic.jpg" width="350" height="350" />
+<img src="https://github.com/propeing/TheCatLookLikeDog/blob/main/acc20.png" />
 
 # TheCatLookLikeDog
 这是一个基于pytorch的卷积神经网络实现了猫狗图片区分的一个小项目
@@ -23,3 +23,7 @@ test1.py：用于测试模型
 拿到数据后用split_data.py做分流
 
 net.py需要和train.py在统一路径下，更改train.py里的路径直接运行train.py即可。
+
+# 代码实现
+在测试中猫狗的预测精度可达到90%
+<img src="https://github.com/propeing/TheCatLookLikeDog/blob/main/预测结果.png" />
