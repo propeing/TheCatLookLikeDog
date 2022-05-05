@@ -1,4 +1,4 @@
-<img src="https://github.com/propeing/TheCatLookLikeDog/blob/main/181649815898_.pic.jpg"/>
+<img src="https://github.com/propeing/TheCatLookLikeDog/blob/main/181649815898_.pic.jpg" width="350" height="350" />
 
 # TheCatLookLikeDog
 这是一个基于pytorch的卷积神经网络实现了猫狗图片区分的一个小项目
